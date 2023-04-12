@@ -35,12 +35,12 @@ More descriptions of a project topic here: https://courses.isds.tugraz.at/rkern/
 - Human detection of fake texts: https://github.com/liamdugan/human-detection/tree/main/data
 
 #### TODO
-1. Create a dataset
-2. Text preprocessing
-3. Deciding on a machine learning model
-4. Feature extraction
-5. Fitting the model
-6. Evaluation
+1. Create a dataset - by 29 April
+2. Text preprocessing - by 29 April
+3. Deciding on a machine learning model - by 29 April
+4. Feature extraction - by 31 May
+5. Fitting the model - by 31 May
+6. Evaluation - by 31 May
 
 #### Deadline
 22 June 2023
