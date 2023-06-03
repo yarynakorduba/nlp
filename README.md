@@ -21,6 +21,7 @@ More descriptions of a project topic here: https://courses.isds.tugraz.at/rkern/
 - [TweepFake - Twitter deep Fake text Dataset](https://www.kaggle.com/datasets/mtesconi/twitter-deep-fake-text)
 - [Turkish Fake & Real Comment Dataset](https://www.kaggle.com/datasets/mitaksoylu/turkish-fakereal-comment-dataset)
 - [Paraphrased Articles using GPT-3](https://www.kaggle.com/datasets/aemreusta/paraphrased-articles-using-gpt3)
+- [N-gram-generator](https://github.com/aduroy/n-gram-generator)
 
 
 #### Blog posts on topic
@@ -44,3 +45,13 @@ More descriptions of a project topic here: https://courses.isds.tugraz.at/rkern/
 
 #### Deadline
 22 June 2023
+
+
+#### Dataset options
+1. As own source code / real data - https://github.com/rowanz/grover/tree/master/generation_examples
+2. As GPT-X generated data https://tagoyal.github.io/zeroshot-news-annotations.html#benchmark
+3. Real N-grams https://tagoyal.github.io/zeroshot-news-annotations.html#benchmark
+
+#### Datasets used
+1. To generate texts using N-Gram model: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?resource=download
+2. To generate texts using GPT-3: https://github.com/rowanz/grover/tree/master/generation_examples

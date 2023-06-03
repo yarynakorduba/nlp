@@ -1,0 +1,4 @@
+/data-gen/*
+/project/data/*
+/.env/*
+/.DS_Store
